@@ -9,7 +9,10 @@
 }
 
 .first,
-.second {
+.second,
+.third,
+.fourth,
+.five {
   background-color: pink;
   padding: 10px;
   margin: 10px 15px;
