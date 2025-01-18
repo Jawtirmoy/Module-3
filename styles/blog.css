@@ -1,11 +1,13 @@
 * {
-  margin: 0;
+  box-sizing: border-box;
 }
 
 .img {
   padding: 10px;
   width: 100%;
   height: 400px;
+  justify-content: center;
+  align-items: center;
 }
 
 .first,
@@ -13,10 +15,10 @@
 .third,
 .fourth,
 .five {
-  background-color: pink;
+  background-color: tomato;
   padding: 10px;
   margin: 10px 15px;
   border: 2px solid black;
   border-radius: 5px;
-  box-shadow: 10px 10px 10px black;
+  box-shadow: 10px 10px 5x black;
 }
