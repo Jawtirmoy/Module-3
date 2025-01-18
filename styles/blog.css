@@ -2,7 +2,14 @@
   margin: 0;
 }
 
-div {
+.img {
+  padding: 10px;
+  width: 100%;
+  height: 400px;
+}
+
+.first,
+.second {
   background-color: pink;
   padding: 10px;
   margin: 10px 15px;
